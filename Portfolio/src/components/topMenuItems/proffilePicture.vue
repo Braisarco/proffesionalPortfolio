@@ -10,7 +10,8 @@
 
 <style>
     .picture{
-        width : 260px;
-        height : 260px;
+        width : 55px;
+        height : 55px;
+        border-radius: 100%;
     }
 </style>
